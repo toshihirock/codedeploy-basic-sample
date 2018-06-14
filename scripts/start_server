@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "start start-script"
+echo "start start-script"
+echo "end start-script"
